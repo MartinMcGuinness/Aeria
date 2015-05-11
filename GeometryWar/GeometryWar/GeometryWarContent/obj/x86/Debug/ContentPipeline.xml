@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>F-22B.PNG</Source>
+      <Name>F-22B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-22B.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkIII b.PNG</Source>
+      <Name>FAX-44 MkIII b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII b.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkII a.PNG</Source>
+      <Name>FAX-44 MkII a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>B-3 a.PNG</Source>
+      <Name>B-3 a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3 a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>B-3.PNG</Source>
+      <Name>B-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\B-3.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bomber39.PNG</Source>
+      <Name>Bomber39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bomber39.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-15F a.PNG</Source>
+      <Name>F-15F a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-15F.PNG</Source>
+      <Name>F-15F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-15F.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-24.PNG</Source>
+      <Name>F-24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-24.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-35D.PNG</Source>
+      <Name>F-35D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-35D.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-45A a.png</Source>
+      <Name>F-45A a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-45A c.PNG</Source>
+      <Name>F-45A c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A c.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>F-45A.PNG</Source>
+      <Name>F-45A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\F-45A.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FA-18H a.PNG</Source>
+      <Name>FA-18H a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FA-18H.PNG</Source>
+      <Name>FA-18H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-18H.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FA-28 in.PNG</Source>
+      <Name>FA-28 in</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 in.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FA-28 out.PNG</Source>
+      <Name>FA-28 out</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FA-28 out.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkI.PNG</Source>
+      <Name>FAX-44 MkI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkI.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkII.PNG</Source>
+      <Name>FAX-44 MkII</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkII.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkIII a.PNG</Source>
+      <Name>FAX-44 MkIII a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII a.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FAX-44 MkIII.png</Source>
+      <Name>FAX-44 MkIII</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FAX-44 MkIII.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FB-23A.PNG</Source>
+      <Name>FB-23A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FB-23A.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FQ-3.PNG</Source>
+      <Name>FQ-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-3.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>FQ-4.PNG</Source>
+      <Name>FQ-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\FQ-4.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MiG-51.PNG</Source>
+      <Name>MiG-51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MiG-51A.PNG</Source>
+      <Name>MiG-51A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51A.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MiG-51S.PNG</Source>
+      <Name>MiG-51S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MiG-51S.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SR-91A.PNG</Source>
+      <Name>SR-91A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\SR-91A.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Su-37K.PNG</Source>
+      <Name>Su-37K</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-37K.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Su-49.PNG</Source>
+      <Name>Su-49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-49.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Su-51K in.PNG</Source>
+      <Name>Su-51K in</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K in.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Su-51K out.PNG</Source>
+      <Name>Su-51K out</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-51K out.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Su-55.PNG</Source>
+      <Name>Su-55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Su-55.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>T-20.PNG</Source>
+      <Name>T-20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\T-20.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ye-355A.PNG</Source>
+      <Name>Ye-355A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Ye-355A.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bubble.png</Source>
+      <Name>Bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\Bubble.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>thumb_Ship001.png</Source>
+      <Name>thumb_Ship001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\thumb_Ship001.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyShip001.png</Source>
+      <Name>EnemyShip001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\EnemyShip001.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>redPixel.png</Source>
+      <Name>redPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\redPixel.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bluePixel.png</Source>
+      <Name>bluePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\bluePixel.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>whitePixel.png</Source>
+      <Name>whitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\whitePixel.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowPixel.png</Source>
+      <Name>yellowPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\yellowPixel.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>radarBackground.png</Source>
+      <Name>radarBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackground.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>radarBackgroundLrg.png</Source>
+      <Name>radarBackgroundLrg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\radarBackgroundLrg.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket_black_red_450x300.png</Source>
+      <Name>rocket_black_red_450x300</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\rocket_black_red_450x300.xnb</Output>
+      <Time>2012-12-01T12:26:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>new.png</Source>
+      <Name>new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\new.xnb</Output>
+      <Time>2012-12-01T13:09:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PNG.png</Source>
+      <Name>PNG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\PNG.xnb</Output>
+      <Time>2012-12-01T16:01:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>star_field.jpg</Source>
+      <Name>star_field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\star_field.xnb</Output>
+      <Time>2012-12-02T00:09:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>needler.png</Source>
+      <Name>needler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\needler.xnb</Output>
+      <Time>2012-12-02T00:55:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>alien-spaceship.png</Source>
+      <Name>alien-spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\alien-spaceship.xnb</Output>
+      <Time>2012-12-02T00:50:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>viper.png</Source>
+      <Name>viper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\viper.xnb</Output>
+      <Time>2012-12-02T00:55:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MyFont.spritefont</Source>
+      <Name>MyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\MyFont.xnb</Output>
+      <Time>2012-09-24T17:13:14+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWarContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWarContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Martin\Desktop\COLLEGE\USB 14-02-2013\GeometryWar\GeometryWar\GeometryWar\GeometryWar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T14:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-30T22:23:32.0014485+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
